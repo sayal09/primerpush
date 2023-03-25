@@ -9,6 +9,6 @@ function obtenerAleatorio2() {
 }
 
 function obtenerAleatorio3() {
-    const varEnMaster = 1;
-    return varEnMaster;
+    const varEnMaster2v2 = 1;
+    return varEnMaster2v2;
 }
